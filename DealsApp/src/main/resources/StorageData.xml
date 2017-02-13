@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<storageTransformers>
+    <BPObjects>
+        <BPTransformerList title="Adidas">
+            <price>300.0</price>
+            <size>45</size>
+            <colour>brown</colour>
+        </BPTransformerList>
+        <BPTransformerList title="Reebok">
+            <price>240.0</price>
+            <size>43</size>
+            <colour>red</colour>
+        </BPTransformerList>
+    </BPObjects>
+    <FPObjects>
+        <FPTransformerList title="Sony">
+            <price>700.0</price>
+            <megapx>25.0</megapx>
+            <digital>true</digital>
+        </FPTransformerList>
+        <FPTransformerList title="Canon">
+            <price>600.0</price>
+            <megapx>27.0</megapx>
+            <digital>false</digital>
+        </FPTransformerList>
+    </FPObjects>
+</storageTransformers>
